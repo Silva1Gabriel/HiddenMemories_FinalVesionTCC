@@ -1,0 +1,4 @@
+Para compilar o projeto e rodar o jogo como apresentado na banca, basta iniciar da cena chamada "Attic" e dar play.
+As cenas que podem ser visitadas são: "Attic","Basement","Credits", "NewGroundFloor","OutDoor".
+
+ATENÇÃO: Todo o projeto foi realizado na versão 2018.1.8.f1 da Unity!Sendo que não se faz necessário nenhum procedimento especial para gerar a build.
